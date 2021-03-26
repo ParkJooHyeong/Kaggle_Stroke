@@ -12,6 +12,15 @@ This dataset is used to predict whether a patient is likely to get stroke based 
 # Purpose   
 - 데이터 분석 및 시각화
 - 다양한 Machine Learning Algorithm을 활용해 Classification   
+# 
+  
+    
+      
+        
+          
+            
+              
+              
   
   
  *데이터 출처 : https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
