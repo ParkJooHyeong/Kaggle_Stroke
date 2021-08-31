@@ -1,4 +1,4 @@
-# Stroke_Classification
+# Kaggle_Stroke_Prediction
 11 clinical features por predicting stroke events  
 
 
